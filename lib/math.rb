@@ -23,6 +23,6 @@ mo_dulo = num2 % num1
 end
 
 def square_root(num)
-square_rt = num **2
+square_rt = Math.sqrt (num)
 square_rt
 end
