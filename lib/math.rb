@@ -19,7 +19,7 @@ mul_tiplication
 end
 
 def modulo(num1, num2)
-mo_dulo = num2 % num1
+mo_dulo = num1 % num2
 end
 
 def square_root(num)
